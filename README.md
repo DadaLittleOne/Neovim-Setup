@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/lRzzpEU.png"></img>
 
-# Neovim Setup
+# My Neovim Setup
 
 <div align="center"><h2>
  My personal Neovim setup for anyone interested
